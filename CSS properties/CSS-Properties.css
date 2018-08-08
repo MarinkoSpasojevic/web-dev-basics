@@ -1,0 +1,33 @@
+.colorText{
+    color: white;
+    background-color: blue;
+}
+
+.imageBackground{
+    color: white;
+    background-image: url("blue-background.png");
+}
+
+.firstBox{
+    border: 1px solid green;
+    color: tomato;
+    margin: 10px 10px 5px 20px;
+    padding: 10px 60px;
+    width: fit-content;
+}
+
+.secondBox{
+    border: 3px dotted red;
+    color: green;
+    margin: 45px 10px 5px 40px;
+    padding: 15px;
+    width: fit-content;
+}
+
+.thirdBox{
+    border: 5px dotted blue;
+    color: orange;
+    margin: 30px 10px 5px 2px;
+    padding: 5px 8px 10px 15px;
+    width: fit-content;
+}
