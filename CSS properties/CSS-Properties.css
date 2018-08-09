@@ -31,3 +31,89 @@
     padding: 5px 8px 10px 15px;
     width: fit-content;
 }
+
+.wrappAlign{
+    width: 400px;
+    border: 1px solid green;
+    margin: 20px;
+    padding: 20px;
+}
+
+.align-right{
+    text-align: right;
+    color: blue;
+}
+
+.align-left{
+    text-align: left;
+    color: red;
+}
+
+.align-center{
+    text-align: center;
+    color: green;
+}
+
+.justify{
+    text-align: justify;
+    color:orange;
+}
+
+.overline{
+    text-decoration: overline;
+}
+
+.line-through{
+    text-decoration: line-through;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.lowercase{
+    text-transform: lowercase;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+
+.shadow {
+    text-shadow: 3px 2px gray;
+}
+
+.font-family{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fontModification{
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a:link{
+    border: 1px solid blue;
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    text-decoration: none;
+}
+
+a:visited{
+    color: orange;
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color: #1165e4;
+}
+
+a:active{
+    color: red;
+}
