@@ -1,0 +1,32 @@
+ul li{
+    list-style-type: circle;
+}
+
+.menuWrapper{
+    width:50%;
+}
+
+.menuWrapper ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #214fe6;
+}
+
+.menuWrapper li {
+    float: left;
+    list-style: none;
+}
+
+.menuWrapper li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.menuWrapper li a:hover {
+    background-color: #05217c;
+}
